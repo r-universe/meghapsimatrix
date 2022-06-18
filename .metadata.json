@@ -1,0 +1,10 @@
+[
+  {
+    "package": "simhelpers",
+    "oncran": true
+  },
+  {
+    "package": "wildmeta",
+    "oncran": true
+  }
+]
